@@ -1,6 +1,9 @@
 # aicodeaudit
 基于AI的代码审计系统
 
+![Example Image](1.png "web1")
+![Example Image](2.png "web1")
+
 # 代码审计平台
 
 基于 Go 语言开发的代码审计平台，AI 分析扫描结果，生成易于理解的安全漏洞报告。
